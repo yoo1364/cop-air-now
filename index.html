@@ -49,6 +49,11 @@
   .card .value small { font-size: 15px; font-weight: 500; color: var(--navy-2); margin-left: 4px; }
   .card .note { margin-top: 8px; font-size: 14px; color: var(--navy-2); }
 
+  section.discovery-sec { margin-bottom: 20px; }
+  .discovery { border-left: 6px solid var(--check); }
+  .discovery .label { font-weight: 600; color: var(--navy); }
+  .discovery .sentence { margin: 0; font-size: 19px; font-weight: 600; letter-spacing: -.01em; }
+
   .panel { background: var(--white); border-radius: 18px; padding: 28px; box-shadow: 0 1px 2px rgba(11,37,69,.06), 0 6px 20px rgba(11,37,69,.05); }
   .legend { display: flex; flex-wrap: wrap; gap: 16px; margin: 0 0 20px; padding: 0; list-style: none; font-size: 14px; color: var(--navy-2); }
   .legend li { display: flex; align-items: center; gap: 6px; }
@@ -187,6 +192,27 @@
     var cleanest = sidoAvg[sidoAvg.length - 1];
     var dirtiest = sidoAvg[0];
     function sidoNote(x) { return x ? '평균 ' + Math.round(x.avg) + ' ㎍/㎥ · ' + gradeOf(x.avg).name : ''; }
+
+    // ⓪ 오늘의 발견: PM2.5가 가장 높은 측정소와 전국 평균 대비 배수 (air.json에서 계산)
+    var top = null, topTies = 0;
+    valid.forEach(function (s) {
+      if (!top || s.pm25 > top.pm25) { top = s; topTies = 0; }
+      else if (s.pm25 === top.pm25) topTies++;
+    });
+    if (top) {
+      var topGrade = gradeOf(top.pm25);
+      var place = (top.sido || '') + ' ' + (top.station || '') + (topTies ? ' 외 ' + topTies + '곳' : '');
+      var sentence = '지금 가장 탁한 측정소는 ' + place + '(PM2.5 ' + top.pm25 + ' ㎍/㎥, ' + topGrade.name + ')이고, ';
+      sentence += natAvg > 0
+        ? '전국 평균의 ' + (top.pm25 / natAvg).toFixed(1) + '배입니다.'
+        : '전국 평균과 비교할 수 없습니다.';
+      var discovery = el('div', { 'class': 'card discovery', style: 'border-left-color:' + topGrade.color }, [
+        el('div', { 'class': 'label', text: '오늘의 발견' }),
+        el('p', { 'class': 'sentence', text: sentence }),
+        el('div', { 'class': 'note', text: '전국 평균 ' + natAvg.toFixed(1) + ' ㎍/㎥ · 측정소 ' + valid.length + '곳 기준(점검 중 제외)' })
+      ]);
+      app.appendChild(el('section', { 'class': 'discovery-sec', 'aria-label': '오늘의 발견' }, [discovery]));
+    }
 
     app.appendChild(el('section', { 'aria-label': '요약' }, [
       el('div', { 'class': 'cards' }, [
