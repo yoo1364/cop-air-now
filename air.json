@@ -1,0 +1,4718 @@
+{
+ "source": "한국환경공단 에어코리아",
+ "fetchedAt": "2026-11-08T16:44:43+09:00",
+ "dataTime": "2026-11-08 16:00",
+ "stations": [
+  {
+   "sido": "경남",
+   "station": "옥포항",
+   "pm10": 18,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "북부동",
+   "pm10": 11,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "삼호동",
+   "pm10": 8,
+   "pm25": 1,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "물금읍",
+   "pm10": 17,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "화산리",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "상남리",
+   "pm10": 17,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "농소동",
+   "pm10": 14,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "삼남읍",
+   "pm10": 14,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "약사동",
+   "pm10": 14,
+   "pm25": null,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "웅촌면",
+   "pm10": 12,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "범서읍",
+   "pm10": 19,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "북부순환도로",
+   "pm10": 12,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "송정동",
+   "pm10": 9,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "전하동",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "산업로",
+   "pm10": 27,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "방어진순환도로",
+   "pm10": 9,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "내일동",
+   "pm10": 18,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "무전동",
+   "pm10": 15,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "고성읍",
+   "pm10": 15,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "진월면",
+   "pm10": 9,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "해남읍",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "대불",
+   "pm10": 22,
+   "pm25": 18,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "영암읍",
+   "pm10": 19,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "송단리",
+   "pm10": 10,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "화순읍",
+   "pm10": 5,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "영광읍",
+   "pm10": 23,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "안마도",
+   "pm10": 14,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "장흥읍",
+   "pm10": 14,
+   "pm25": 1,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "진도읍",
+   "pm10": 16,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "신지면",
+   "pm10": 14,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "함평읍",
+   "pm10": 12,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "고흥읍",
+   "pm10": 18,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "신안군",
+   "pm10": 12,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "홍도",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전남광주",
+   "station": "가거도",
+   "pm10": 24,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "무안읍",
+   "pm10": 14,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "남악.오룡",
+   "pm10": 22,
+   "pm25": 22,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "강진읍",
+   "pm10": 9,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "곡성읍",
+   "pm10": 1,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "구례읍",
+   "pm10": 14,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "벌교읍",
+   "pm10": 27,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "고산리",
+   "pm10": 41,
+   "pm25": 8,
+   "khaiGrade": null
+  },
+  {
+   "sido": "제주",
+   "station": "제주항",
+   "pm10": 18,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "남산1동",
+   "pm10": 24,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "수창동",
+   "pm10": 17,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "지산동",
+   "pm10": 27,
+   "pm25": 21,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "서호동",
+   "pm10": 42,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "용계동",
+   "pm10": 25,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "이현동",
+   "pm10": 18,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "평리동",
+   "pm10": 22,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "대명동",
+   "pm10": 22,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "신암동",
+   "pm10": 13,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "대구",
+   "station": "태전동",
+   "pm10": 21,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "산격동",
+   "pm10": 11,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "서변동",
+   "pm10": 24,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "연호동",
+   "pm10": 40,
+   "pm25": 23,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "만촌동",
+   "pm10": 23,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "호림동",
+   "pm10": 16,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "유가읍",
+   "pm10": 23,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "이곡동",
+   "pm10": 17,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "시지동",
+   "pm10": 22,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "진천동",
+   "pm10": 23,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "다사읍",
+   "pm10": 13,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대구",
+   "station": "본동",
+   "pm10": 22,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "내당동",
+   "pm10": 20,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "침산동",
+   "pm10": 18,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "화원읍",
+   "pm10": 27,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "충혼탑",
+   "pm10": 34,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대구",
+   "station": "군위읍",
+   "pm10": 19,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "우현동",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "장흥동",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "장량동",
+   "pm10": 12,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "대도동",
+   "pm10": 12,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "대송면",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "3공단",
+   "pm10": 11,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "송도동",
+   "pm10": 15,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "오천읍",
+   "pm10": 16,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "청림동",
+   "pm10": 19,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "연일읍",
+   "pm10": 14,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "제철동",
+   "pm10": 19,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "성건동",
+   "pm10": 14,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "보덕동",
+   "pm10": 14,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "안강읍",
+   "pm10": 15,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "외동읍",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "양덕동",
+   "pm10": 11,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "평화남산동",
+   "pm10": 24,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "대광동",
+   "pm10": 17,
+   "pm25": 15,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경북",
+   "station": "율곡동",
+   "pm10": 22,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "명륜동",
+   "pm10": 25,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "공단동",
+   "pm10": 24,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "원평동",
+   "pm10": 24,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경북",
+   "station": "형곡동",
+   "pm10": 23,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "4공단",
+   "pm10": 19,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경북",
+   "station": "진미동",
+   "pm10": 14,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "가흥동",
+   "pm10": 26,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "영주동",
+   "pm10": 322,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "중방동",
+   "pm10": 29,
+   "pm25": 27,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "하양읍",
+   "pm10": 26,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "진량읍",
+   "pm10": 25,
+   "pm25": 19,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "상주시",
+   "pm10": 23,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "칠곡군",
+   "pm10": 12,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "영덕읍",
+   "pm10": 18,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "강구면",
+   "pm10": 18,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "영해면",
+   "pm10": 21,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "문경시",
+   "pm10": 12,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "성주군",
+   "pm10": 17,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "화북면",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "영천시",
+   "pm10": 14,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "안계면(교외)",
+   "pm10": 23,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "의성읍",
+   "pm10": 16,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "안계면",
+   "pm10": 19,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "울진군",
+   "pm10": 18,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "석포면",
+   "pm10": 9,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "봉화군청",
+   "pm10": 18,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "태하리",
+   "pm10": 12,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "울릉읍",
+   "pm10": 7,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "대가야읍",
+   "pm10": 20,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "영양군",
+   "pm10": 6,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "예천군",
+   "pm10": 15,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "화양읍",
+   "pm10": 12,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경북",
+   "station": "포항항",
+   "pm10": 16,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "대전",
+   "station": "읍내동",
+   "pm10": 26,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "문평동",
+   "pm10": 32,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "문창동",
+   "pm10": 10,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "구성동",
+   "pm10": 16,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "노은동",
+   "pm10": 21,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "상대동(대전)",
+   "pm10": 18,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "관평동",
+   "pm10": 24,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "대전",
+   "station": "지족동",
+   "pm10": 20,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "대흥동1",
+   "pm10": 17,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "성남동1",
+   "pm10": 13,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "대성동",
+   "pm10": 6,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "정림동",
+   "pm10": 26,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "둔산동",
+   "pm10": 25,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "대전",
+   "station": "월평동",
+   "pm10": 16,
+   "pm25": 12,
+   "khaiGrade": null
+  },
+  {
+   "sido": "대전",
+   "station": "비래동",
+   "pm10": 24,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "봉명동",
+   "pm10": 30,
+   "pm25": 18,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "사천동",
+   "pm10": 23,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "보성읍",
+   "pm10": 13,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "목포항",
+   "pm10": 23,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "광양항",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "여수항",
+   "pm10": 17,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "광양 중마",
+   "pm10": 8,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "광양 율촌",
+   "pm10": 21,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "완도항",
+   "pm10": 21,
+   "pm25": 8,
+   "khaiGrade": null
+  },
+  {
+   "sido": "제주",
+   "station": "이도동",
+   "pm10": 24,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "연동",
+   "pm10": 16,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "조천읍",
+   "pm10": 17,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "한림읍",
+   "pm10": 19,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "화북동",
+   "pm10": 16,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "애월읍",
+   "pm10": 16,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "동홍동",
+   "pm10": 27,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "성산읍",
+   "pm10": 17,
+   "pm25": null,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "남원읍",
+   "pm10": 20,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "강정동",
+   "pm10": 16,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "대정읍",
+   "pm10": 9,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "제주",
+   "station": "노형로",
+   "pm10": 19,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "거창읍",
+   "pm10": 9,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "가야읍",
+   "pm10": 14,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "함양읍",
+   "pm10": 14,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "남해읍",
+   "pm10": 9,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "산청읍",
+   "pm10": 13,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "남상면",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경남",
+   "station": "의령읍",
+   "pm10": 16,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "창녕읍",
+   "pm10": 15,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "합천읍",
+   "pm10": 12,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "마산항",
+   "pm10": 21,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "울산",
+   "station": "울산항",
+   "pm10": 9,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "하동항",
+   "pm10": 23,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "삼천포항",
+   "pm10": 16,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "진해항",
+   "pm10": 20,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "서석동",
+   "pm10": 15,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "농성동",
+   "pm10": 14,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "치평동",
+   "pm10": 9,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "노대동",
+   "pm10": 11,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "유촌동",
+   "pm10": 18,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "두암동",
+   "pm10": 14,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "운암동",
+   "pm10": 17,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "건국동",
+   "pm10": 14,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "일곡동",
+   "pm10": 17,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "오선동",
+   "pm10": 19,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "우산동(광주)",
+   "pm10": 12,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "평동",
+   "pm10": 16,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "주월동",
+   "pm10": 12,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "노송동",
+   "pm10": 22,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "용당동",
+   "pm10": 15,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "부흥동",
+   "pm10": 13,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "서강동",
+   "pm10": 12,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "월내동",
+   "pm10": 8,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "문수동",
+   "pm10": 11,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "여천동(여수)",
+   "pm10": 11,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "덕충동",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "장천동",
+   "pm10": 12,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "연향동",
+   "pm10": 19,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "순천만",
+   "pm10": 25,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "호두리",
+   "pm10": 15,
+   "pm25": 2,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "신대",
+   "pm10": 9,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전남광주",
+   "station": "빛가람동",
+   "pm10": 20,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "담양읍",
+   "pm10": 12,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "장성읍",
+   "pm10": 17,
+   "pm25": 4,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전남광주",
+   "station": "화양면",
+   "pm10": 8,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "율촌면",
+   "pm10": null,
+   "pm25": 11,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전남광주",
+   "station": "삼일동",
+   "pm10": 8,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "중동",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "태인동",
+   "pm10": 20,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "광양읍",
+   "pm10": 13,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전남광주",
+   "station": "봉강면",
+   "pm10": 10,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "삼진로",
+   "pm10": 20,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "경화동",
+   "pm10": 16,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "월영동",
+   "pm10": 19,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "하동읍",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "금성면",
+   "pm10": 9,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "동상동",
+   "pm10": 20,
+   "pm25": 13,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경남",
+   "station": "삼방동",
+   "pm10": 12,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "장유동",
+   "pm10": 19,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "진영읍",
+   "pm10": 23,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "김해대로",
+   "pm10": 17,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "진례면",
+   "pm10": 26,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "저구리",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "아주동",
+   "pm10": 18,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "고현동",
+   "pm10": 15,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "사천읍",
+   "pm10": 13,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "향촌동",
+   "pm10": 10,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "대산면",
+   "pm10": 24,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "남양동1",
+   "pm10": 13,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "평창읍",
+   "pm10": 10,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "북평면",
+   "pm10": 13,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "정선읍",
+   "pm10": 8,
+   "pm25": 1,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "간성읍",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "강원",
+   "station": "치악산",
+   "pm10": 29,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "횡성읍",
+   "pm10": 9,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "상리",
+   "pm10": 9,
+   "pm25": 1,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "양양읍",
+   "pm10": 9,
+   "pm25": 1,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "금호동",
+   "pm10": 22,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "갈말읍",
+   "pm10": 22,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "홍천읍",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "영월읍",
+   "pm10": 11,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "화천읍",
+   "pm10": 13,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "황지동",
+   "pm10": 13,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "인제읍",
+   "pm10": 10,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "우천면",
+   "pm10": 8,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "호암동",
+   "pm10": 27,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "송현",
+   "pm10": 30,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "논현",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "인천",
+   "station": "청라",
+   "pm10": 30,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "송도",
+   "pm10": 18,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "아암",
+   "pm10": 16,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "동막",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "원당",
+   "pm10": 23,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "길상",
+   "pm10": 29,
+   "pm25": 19,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "삼산",
+   "pm10": 19,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "경인항",
+   "pm10": 31,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "인천항",
+   "pm10": 32,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "인천 신항",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "인천 북항",
+   "pm10": 23,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "인천 남항",
+   "pm10": 25,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "소사본동",
+   "pm10": 14,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "내동",
+   "pm10": 14,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "중2동",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "오정동",
+   "pm10": 18,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "송내대로(중동)",
+   "pm10": 25,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "석모리",
+   "pm10": 31,
+   "pm25": 14,
+   "khaiGrade": null
+  },
+  {
+   "sido": "인천",
+   "station": "덕적도",
+   "pm10": 17,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "백령도",
+   "pm10": 31,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "영흥",
+   "pm10": 14,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "연평도",
+   "pm10": 32,
+   "pm25": 18,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "울도",
+   "pm10": 21,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "칠금동",
+   "pm10": 17,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "중앙탑면",
+   "pm10": 18,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "살미면",
+   "pm10": 25,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "장락동",
+   "pm10": 13,
+   "pm25": 3,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "영천동",
+   "pm10": 18,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "청풍면",
+   "pm10": 20,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "송학면",
+   "pm10": 23,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "오창읍",
+   "pm10": 24,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "산남동",
+   "pm10": 21,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "오송읍",
+   "pm10": 20,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "가덕면",
+   "pm10": 27,
+   "pm25": 18,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "매포읍",
+   "pm10": 25,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "단성면",
+   "pm10": 12,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "단양읍",
+   "pm10": 11,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "청천면",
+   "pm10": 17,
+   "pm25": 15,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "괴산읍",
+   "pm10": 24,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "감물면",
+   "pm10": 23,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "진천읍",
+   "pm10": 22,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "덕산읍",
+   "pm10": 26,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "금왕",
+   "pm10": 16,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "음성읍",
+   "pm10": 22,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "소이면",
+   "pm10": 21,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "영동읍",
+   "pm10": 9,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "황간면",
+   "pm10": 14,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "도안면",
+   "pm10": 16,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "증평읍",
+   "pm10": 18,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "보은읍",
+   "pm10": 6,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "옥천읍",
+   "pm10": 9,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "삼천동",
+   "pm10": 31,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "팔복동",
+   "pm10": null,
+   "pm25": 11,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "송천동",
+   "pm10": 27,
+   "pm25": 16,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "서신동",
+   "pm10": 32,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "혁신동",
+   "pm10": 27,
+   "pm25": 16,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "여의동",
+   "pm10": 38,
+   "pm25": 19,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "효자동",
+   "pm10": 25,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "신풍동(군산)",
+   "pm10": 38,
+   "pm25": 22,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "소룡동",
+   "pm10": 18,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "사정동",
+   "pm10": 20,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "옥산면",
+   "pm10": 17,
+   "pm25": 6,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "비응도동",
+   "pm10": 25,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "말도",
+   "pm10": 29,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "소룡동2",
+   "pm10": 26,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "삼기면",
+   "pm10": 18,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "팔봉동",
+   "pm10": 18,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "모현동",
+   "pm10": 15,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "용동면",
+   "pm10": 16,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "함열읍",
+   "pm10": 12,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "춘포면",
+   "pm10": 37,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "여산면",
+   "pm10": 21,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "금마면",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "연지동",
+   "pm10": 36,
+   "pm25": 20,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "신태인",
+   "pm10": 29,
+   "pm25": 18,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "영파동",
+   "pm10": 30,
+   "pm25": 21,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "죽항동",
+   "pm10": 27,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "운봉읍",
+   "pm10": 12,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "고창읍",
+   "pm10": 34,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "심원면",
+   "pm10": 27,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "부안읍",
+   "pm10": 38,
+   "pm25": 19,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "새만금",
+   "pm10": 29,
+   "pm25": 23,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "계화면",
+   "pm10": 26,
+   "pm25": 20,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "요촌동",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "광활면",
+   "pm10": 29,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "고산면",
+   "pm10": 9,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "봉동읍",
+   "pm10": 21,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "구이면",
+   "pm10": 18,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "진안읍",
+   "pm10": 6,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "운암면",
+   "pm10": 7,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "임실읍",
+   "pm10": 7,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "관촌면",
+   "pm10": 6,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "전북",
+   "station": "무주읍",
+   "pm10": 10,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "안성면",
+   "pm10": 12,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "순창읍",
+   "pm10": null,
+   "pm25": 5,
+   "khaiGrade": null
+  },
+  {
+   "sido": "전북",
+   "station": "장수읍",
+   "pm10": 10,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "장계면",
+   "pm10": 7,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "서천읍",
+   "pm10": 26,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "서면",
+   "pm10": null,
+   "pm25": 9,
+   "khaiGrade": null
+  },
+  {
+   "sido": "충남",
+   "station": "장항읍",
+   "pm10": 21,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경북",
+   "station": "청송읍",
+   "pm10": 12,
+   "pm25": 1,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "전북",
+   "station": "군산항",
+   "pm10": 20,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "신흥",
+   "pm10": 17,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "서해",
+   "pm10": 28,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "영종",
+   "pm10": 24,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "송림",
+   "pm10": 18,
+   "pm25": 21,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "구월동",
+   "pm10": 20,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "숭의",
+   "pm10": 23,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "석바위",
+   "pm10": 16,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "부평역",
+   "pm10": 51,
+   "pm25": 30,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "남동",
+   "pm10": 18,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "주안",
+   "pm10": 22,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "부평",
+   "pm10": 25,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "연희",
+   "pm10": 25,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "검단",
+   "pm10": 30,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "중봉",
+   "pm10": 25,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "계산",
+   "pm10": 32,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "효성",
+   "pm10": 23,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "임학",
+   "pm10": 36,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "고잔",
+   "pm10": 20,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "서창",
+   "pm10": 11,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "석남",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "인천",
+   "station": "송해",
+   "pm10": 26,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "인천",
+   "station": "동춘",
+   "pm10": 13,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "인천",
+   "station": "운서",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "충북",
+   "station": "용담동",
+   "pm10": 29,
+   "pm25": 16,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충북",
+   "station": "용암동",
+   "pm10": 23,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충북",
+   "station": "복대동",
+   "pm10": 25,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "성황동",
+   "pm10": 19,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "백석동",
+   "pm10": 18,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "성성동",
+   "pm10": 19,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "성거읍",
+   "pm10": 35,
+   "pm25": 26,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "신방동",
+   "pm10": 23,
+   "pm25": 15,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "수신면",
+   "pm10": 14,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "사곡면",
+   "pm10": 14,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "공주",
+   "pm10": 17,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "탄천면",
+   "pm10": 22,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "부여읍",
+   "pm10": 21,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "독곶리",
+   "pm10": 20,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "동문동",
+   "pm10": 22,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "충남",
+   "station": "대산리",
+   "pm10": 20,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "성연면",
+   "pm10": 26,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "송산면",
+   "pm10": 21,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "당진시청사",
+   "pm10": 18,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "합덕읍",
+   "pm10": 23,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "복운리",
+   "pm10": 20,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "모종동",
+   "pm10": 18,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "배방읍",
+   "pm10": 25,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "도고면",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "충남",
+   "station": "둔포면",
+   "pm10": 27,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "인주면",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "장재리",
+   "pm10": 15,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "송악면",
+   "pm10": 39,
+   "pm25": 26,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "논산",
+   "pm10": 17,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "연무읍",
+   "pm10": 24,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "성동면",
+   "pm10": 21,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "파도리",
+   "pm10": 34,
+   "pm25": 21,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "이원면",
+   "pm10": 38,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "태안읍",
+   "pm10": 23,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "격렬비열도",
+   "pm10": null,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "원북면",
+   "pm10": 29,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "예산군",
+   "pm10": 40,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "삽교읍",
+   "pm10": 30,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "고덕면(충남)",
+   "pm10": 20,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "대천2동",
+   "pm10": 12,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "주교면",
+   "pm10": 69,
+   "pm25": 40,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "외연도",
+   "pm10": 26,
+   "pm25": 20,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "홍성읍",
+   "pm10": 32,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "내포",
+   "pm10": 32,
+   "pm25": 20,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "금산읍",
+   "pm10": 13,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "청양읍",
+   "pm10": 15,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "정산면",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "충남",
+   "station": "엄사면",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "평택당진항",
+   "pm10": 26,
+   "pm25": 25,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "대산항",
+   "pm10": 24,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "장항항",
+   "pm10": 31,
+   "pm25": 28,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "평택당진항(당진항)",
+   "pm10": 15,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "충남",
+   "station": "태안항",
+   "pm10": 38,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "충남",
+   "station": "보령항",
+   "pm10": 51,
+   "pm25": 24,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "세종",
+   "station": "조치원읍",
+   "pm10": 21,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "세종",
+   "station": "아름동",
+   "pm10": 25,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "세종",
+   "station": "한솔동",
+   "pm10": 21,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "세종",
+   "station": "부강면",
+   "pm10": 30,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "세종",
+   "station": "보람동",
+   "pm10": 23,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "세종",
+   "station": "전의면",
+   "pm10": 15,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "중앙동(강원)",
+   "pm10": 27,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "반곡동(명륜동)",
+   "pm10": 24,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "문막읍",
+   "pm10": 17,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "지정면",
+   "pm10": 22,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "주문진읍",
+   "pm10": 14,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "옥천동",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "강원",
+   "station": "초당동",
+   "pm10": 9,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "천곡동",
+   "pm10": 8,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "상대원동",
+   "pm10": 27,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "의정부동",
+   "pm10": 20,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "의정부1동",
+   "pm10": 23,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "송산3동",
+   "pm10": 28,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "안양8동",
+   "pm10": 11,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "부림동",
+   "pm10": 24,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "호계3동",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "안양2동",
+   "pm10": 19,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "철산동",
+   "pm10": 18,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "소하동",
+   "pm10": 19,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "고잔동",
+   "pm10": 9,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "초지동",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "본오동",
+   "pm10": 28,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "원곡동",
+   "pm10": 7,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "부곡동1",
+   "pm10": 16,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "대부동",
+   "pm10": 14,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "호수동",
+   "pm10": 18,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "초량동",
+   "pm10": 15,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "태종대",
+   "pm10": 14,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "청학동",
+   "pm10": 12,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "전포동",
+   "pm10": 17,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "온천동",
+   "pm10": 23,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "명장동",
+   "pm10": 10,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "대연동",
+   "pm10": 12,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "부산",
+   "station": "용호동",
+   "pm10": 13,
+   "pm25": 5,
+   "khaiGrade": null
+  },
+  {
+   "sido": "부산",
+   "station": "학장동",
+   "pm10": 10,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "덕천동",
+   "pm10": 17,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "화명동",
+   "pm10": 11,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "삼락동",
+   "pm10": 10,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "우동",
+   "pm10": 10,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "감천동",
+   "pm10": 7,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "청룡동",
+   "pm10": 9,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "좌동",
+   "pm10": 10,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "재송동",
+   "pm10": 12,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "장림동",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "대저동",
+   "pm10": 13,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "녹산동",
+   "pm10": 14,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "명지동",
+   "pm10": 22,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "연산동",
+   "pm10": 8,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "기장읍",
+   "pm10": 12,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "용수리",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "수정동",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "회동동",
+   "pm10": 12,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "광안동",
+   "pm10": 10,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "대신동",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "덕포동",
+   "pm10": 11,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "부산",
+   "station": "개금동",
+   "pm10": 17,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "당리동",
+   "pm10": 12,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "부산항",
+   "pm10": 19,
+   "pm25": 15,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "부산신항",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "부산",
+   "station": "부산북항",
+   "pm10": 8,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "부산감만",
+   "pm10": 11,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "회원동",
+   "pm10": 19,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "봉암동",
+   "pm10": 18,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "내서읍",
+   "pm10": 24,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "대송동",
+   "pm10": 17,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "성남동",
+   "pm10": 6,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "부곡동(울산)",
+   "pm10": 14,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "여천동(울산)",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "선암동",
+   "pm10": 12,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "삼산동",
+   "pm10": 16,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "신정로",
+   "pm10": 10,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "신정동",
+   "pm10": 14,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "덕신리",
+   "pm10": 13,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "무거동",
+   "pm10": 13,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "울산",
+   "station": "효문동",
+   "pm10": 12,
+   "pm25": 2,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "상봉동",
+   "pm10": 8,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "대안동",
+   "pm10": 21,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "상대동(진주)",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "정촌면",
+   "pm10": 12,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "명서동",
+   "pm10": 16,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "웅남동",
+   "pm10": 15,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경남",
+   "station": "성주동",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "용지동",
+   "pm10": 15,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "반송로",
+   "pm10": 37,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경남",
+   "station": "사파동",
+   "pm10": 23,
+   "pm25": 4,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "중앙대로(고잔동)",
+   "pm10": 16,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "별양동",
+   "pm10": 18,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "과천동",
+   "pm10": 19,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "교문동",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "동구동",
+   "pm10": 22,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "부곡3동",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "고천동",
+   "pm10": 18,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "정왕동",
+   "pm10": 16,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "시화산단",
+   "pm10": 19,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "대야동",
+   "pm10": null,
+   "pm25": 5,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "목감동",
+   "pm10": 21,
+   "pm25": 3,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "장현동",
+   "pm10": 15,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "서해안로",
+   "pm10": 14,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "배곧동",
+   "pm10": 20,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "금곡동",
+   "pm10": 17,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "오남읍",
+   "pm10": 22,
+   "pm25": 18,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "별내동",
+   "pm10": 22,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "화도읍",
+   "pm10": 23,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "경춘로",
+   "pm10": 20,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "와부읍",
+   "pm10": 9,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "진접읍",
+   "pm10": 23,
+   "pm25": 19,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "비전동",
+   "pm10": 11,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "안중",
+   "pm10": 23,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "평택항",
+   "pm10": 25,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "송북동",
+   "pm10": 18,
+   "pm25": 4,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "청북읍",
+   "pm10": 16,
+   "pm25": 1,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "고덕동",
+   "pm10": 18,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "금촌동",
+   "pm10": 30,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "운정",
+   "pm10": 22,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "파주",
+   "pm10": 24,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "파주읍",
+   "pm10": 21,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "행신동",
+   "pm10": 23,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "식사동",
+   "pm10": 25,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "백마로(마두역)",
+   "pm10": 28,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "신원동",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "주엽동",
+   "pm10": 18,
+   "pm25": 21,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "경안동",
+   "pm10": 18,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "오포1동",
+   "pm10": 17,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "곤지암",
+   "pm10": 22,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "김량장동",
+   "pm10": 17,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "수지",
+   "pm10": 21,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "기흥",
+   "pm10": 18,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "중부대로(구갈동)",
+   "pm10": 16,
+   "pm25": 4,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "모현읍",
+   "pm10": 17,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "이동읍",
+   "pm10": 19,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "백암면",
+   "pm10": 23,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "설성면",
+   "pm10": 20,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "창전동",
+   "pm10": 11,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "장호원읍",
+   "pm10": 12,
+   "pm25": 2,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "부발읍",
+   "pm10": 19,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "관인면",
+   "pm10": 10,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "선단동",
+   "pm10": 16,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "일동면",
+   "pm10": 24,
+   "pm25": 19,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "사우동",
+   "pm10": 23,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "고촌읍",
+   "pm10": 37,
+   "pm25": 23,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "월곶면",
+   "pm10": 22,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "한강신도시",
+   "pm10": 22,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "한강로",
+   "pm10": 28,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "당동",
+   "pm10": 22,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "산본동",
+   "pm10": null,
+   "pm25": 8,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "오산동",
+   "pm10": 15,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "금암로(신장동)",
+   "pm10": 23,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "신장동",
+   "pm10": 14,
+   "pm25": 4,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "미사",
+   "pm10": 14,
+   "pm25": 6,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "감일",
+   "pm10": 11,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "남양읍",
+   "pm10": 16,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "향남읍",
+   "pm10": 17,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "동탄",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "우정읍",
+   "pm10": 22,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "청계동",
+   "pm10": 12,
+   "pm25": 9,
+   "khaiGrade": 3
+  },
+  {
+   "sido": "경기",
+   "station": "새솔동",
+   "pm10": 17,
+   "pm25": 4,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "봉담읍",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "서신면",
+   "pm10": 20,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "백석읍",
+   "pm10": 19,
+   "pm25": 15,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "고읍",
+   "pm10": 15,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "보산동",
+   "pm10": 11,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "봉산동",
+   "pm10": 14,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "공도읍",
+   "pm10": 16,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "죽산면",
+   "pm10": 30,
+   "pm25": 14,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "중앙동(경기)",
+   "pm10": 17,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "대신면",
+   "pm10": 8,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "가남읍",
+   "pm10": 25,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "연천",
+   "pm10": 24,
+   "pm25": 5,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "전곡",
+   "pm10": 20,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "가평",
+   "pm10": 18,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "경기",
+   "station": "설악면",
+   "pm10": 18,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "용문면",
+   "pm10": 16,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "양평읍",
+   "pm10": 19,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "연천(DMZ)",
+   "pm10": 24,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "중앙로",
+   "pm10": 24,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "퇴계동",
+   "pm10": 7,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "신사우동",
+   "pm10": 18,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "온의동",
+   "pm10": 22,
+   "pm25": 18,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "방산면",
+   "pm10": 32,
+   "pm25": 19,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "양구읍",
+   "pm10": 10,
+   "pm25": 3,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "동해항",
+   "pm10": 20,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "묵호항",
+   "pm10": 22,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "호산항",
+   "pm10": 16,
+   "pm25": 13,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "삼척항",
+   "pm10": 19,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "강원",
+   "station": "옥계항",
+   "pm10": 22,
+   "pm25": 10,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "철원(DMZ)",
+   "pm10": 25,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "화천(DMZ)",
+   "pm10": 27,
+   "pm25": 17,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "인제(DMZ)",
+   "pm10": 25,
+   "pm25": 12,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "강원",
+   "station": "고성(DMZ)",
+   "pm10": 20,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "부산",
+   "station": "광복동",
+   "pm10": 13,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "서울",
+   "station": "중구",
+   "pm10": 18,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "한강대로",
+   "pm10": 19,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "종로구",
+   "pm10": 22,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "청계천로",
+   "pm10": 21,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "종로",
+   "pm10": 22,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "용산구",
+   "pm10": 24,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "광진구",
+   "pm10": 18,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "성동구",
+   "pm10": 14,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "강변북로",
+   "pm10": 22,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "중랑구",
+   "pm10": 24,
+   "pm25": 14,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "동대문구",
+   "pm10": 20,
+   "pm25": 13,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "홍릉로",
+   "pm10": 19,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "성북구",
+   "pm10": 23,
+   "pm25": null,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "정릉로",
+   "pm10": 20,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "서울",
+   "station": "도봉구",
+   "pm10": 23,
+   "pm25": 17,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "은평구",
+   "pm10": 22,
+   "pm25": 11,
+   "khaiGrade": null
+  },
+  {
+   "sido": "서울",
+   "station": "서대문구",
+   "pm10": 13,
+   "pm25": 8,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "서울",
+   "station": "마포구",
+   "pm10": 21,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "신촌로",
+   "pm10": 15,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "강서구",
+   "pm10": 21,
+   "pm25": 16,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "공항대로",
+   "pm10": 21,
+   "pm25": 16,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "서울",
+   "station": "구로구",
+   "pm10": 25,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "영등포구",
+   "pm10": 17,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "영등포로",
+   "pm10": 19,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "동작구",
+   "pm10": 19,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "동작대로 중앙차로",
+   "pm10": 16,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "관악구",
+   "pm10": 16,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "서울",
+   "station": "강남구",
+   "pm10": 13,
+   "pm25": 7,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "서울",
+   "station": "서초구",
+   "pm10": 15,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "도산대로",
+   "pm10": 16,
+   "pm25": 15,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "강남대로",
+   "pm10": 19,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "송파구",
+   "pm10": 16,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "강동구",
+   "pm10": 10,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "천호대로",
+   "pm10": 15,
+   "pm25": 5,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "금천구",
+   "pm10": 18,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "시흥대로",
+   "pm10": 25,
+   "pm25": 11,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "강북구",
+   "pm10": 20,
+   "pm25": 16,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "양천구",
+   "pm10": null,
+   "pm25": null,
+   "khaiGrade": null
+  },
+  {
+   "sido": "서울",
+   "station": "노원구",
+   "pm10": 24,
+   "pm25": 16,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "서울",
+   "station": "화랑로",
+   "pm10": 22,
+   "pm25": 11,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "신풍동",
+   "pm10": 25,
+   "pm25": 9,
+   "khaiGrade": 2
+  },
+  {
+   "sido": "경기",
+   "station": "인계동",
+   "pm10": 15,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "광교동",
+   "pm10": 20,
+   "pm25": 0,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "영통동",
+   "pm10": 15,
+   "pm25": 6,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "천천동",
+   "pm10": 14,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "경수대로(동수원)",
+   "pm10": 22,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "고색동",
+   "pm10": 25,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "호매실",
+   "pm10": 20,
+   "pm25": 8,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "대왕판교로(백현동)",
+   "pm10": 22,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "단대동",
+   "pm10": 17,
+   "pm25": 10,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "정자동",
+   "pm10": 15,
+   "pm25": 7,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "수내동",
+   "pm10": 19,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "성남대로(모란역)",
+   "pm10": 22,
+   "pm25": 12,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "복정동",
+   "pm10": 21,
+   "pm25": 9,
+   "khaiGrade": 1
+  },
+  {
+   "sido": "경기",
+   "station": "운중동",
+   "pm10": 20,
+   "pm25": 7,
+   "khaiGrade": 1
+  }
+ ]
+}
